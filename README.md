@@ -1,5 +1,7 @@
 # Game Jam ROAD BANDS : créez les niveaux du jeu !
 
+** Rajouter des gifs sur la page **
+
 hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours plus loin dans l’univers de l’entertainment en proposant un jeu vidéo rétro (mobile et web) autour du road trip ! Dans Road Bands, vous devez aider un groupe de musique à retrouver leurs instruments et affronter leurs némésis. Mais attention, Road Bands n’est pas qu'un simple jeu vidéo, c’est un vrai projet collaboratif. Nous avons créé les 2 premiers niveaux, à vous de créer la suite !
 
 <p align="center">
@@ -14,6 +16,7 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 - [FAQ](./README.md#faq)
 
 ## Jouer au jeu
+![Jouer au jeu](./titre.png)
 
 À la sortie d’un festival, le groupe de glam rock Slapp Machine décide de partir en road trip pour composer leur nouvel album. Mais les membres du groupe rival, les Zackhøuz, leur ont volé leurs instruments. Les Slapp Machine vont alors s’embarquer dans une course poursuite endiablée à travers des niveaux déjantés, mêlant runner et niveaux de boss, afin de récupérer leurs précieux instrus.
 
@@ -21,12 +24,14 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 * Affrontez Max le manager véreux lors d’une épique bataille de sandwichs triangle
 * Remplissez le réservoir de votre van le plus vite possible
 
-Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Road Bands [sur Android](https://play.google.com/store/apps/details?id=fr.hf1.roadband) et [sur iOS](https://itunes.apple.com/app/id1256521725) tout de suite et gratuitement !
-
 ![Rattrapez le van des Zackhøuz !](./img1.jpg)
 ![Les Zackhøuz vous ont volé vos instruments !](./img2.jpg)
 ![Remplissez le réservoir de votre van !](./img3.jpg)
 ![Affrontez Max le manager véreux !](./img5.jpg)
+
+Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Road Bands [sur Android](https://play.google.com/store/apps/details?id=fr.hf1.roadband) et [sur iOS](https://itunes.apple.com/app/id1256521725) tout de suite et gratuitement !
+
+
 
 ## Participer à la Game Jam
 
