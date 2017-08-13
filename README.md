@@ -11,7 +11,7 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 ## Sommaire
 
 - [Jouer au jeu](#jouer-au-jeu)
-- [Participer à la Game Jam](./README.md#participer-à-la-game-jam)
+- [Faire la Game Jam](#faire-la-game-jam)
 - [Les Prix](./README.md#les-prix)
 - [FAQ](./README.md#faq)
 
@@ -39,7 +39,8 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
     <a target="_blank" href="https://itunes.apple.com/app/id1256521725"><img src="./iphone.png" alt="iPhone"/></a>
 </p>
 
-## Participer à la Game Jam
+![Faire la Game Jam](./titre2.png)
+<a name="faire-la-game-jam"></a>
 
 *Informations sur l'évènement :* 
 - [ ] *Date de rendu*
