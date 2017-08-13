@@ -8,5 +8,7 @@
 
 hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours plus loin dans l’univers de l’entertainment en proposant un jeu vidéo rétro (mobile et web) autour du road trip !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/35mA3UNQ-yk?rel=0" frameborder="0" allowfullscreen></iframe>
+<p align="center">
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=35mA3UNQ-yk" target="_blank"><img src="https://raw.githubusercontent.com/Yakka/testF1/master/youtube.jpg" alt="Video Roadbands"/></a>
+</p>
 
