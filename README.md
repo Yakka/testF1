@@ -30,11 +30,7 @@ A la sortie d’un festival, le groupe de glam rock Slapp Machine décide de par
 
 Les Slapp Machine ont besoin de vous !
 
-![Rattrapez le van des Zackhøuz](https://raw.githubusercontent.com/Yakka/testF1/master/img1.jpg)
 
-| Titre 1       |     Titre 2     |   Titre 3      |
-| ------------- | -------------   | ---------      |
-| Colonne       |     Colonne     |      Colonne   |
-| Alignée à     |      Alignée au |     Alignée à  |
-| Gauche        |      Centre     |      Droite    |
+| ![Rattrapez le van des Zackhøuz](https://raw.githubusercontent.com/Yakka/testF1/master/img1.jpg) | ![Rattrapez le van des Zackhøuz](https://raw.githubusercontent.com/Yakka/testF1/master/img2.jpg) |
+| ![Rattrapez le van des Zackhøuz](https://raw.githubusercontent.com/Yakka/testF1/master/img3.jpg) | ![Rattrapez le van des Zackhøuz](https://raw.githubusercontent.com/Yakka/testF1/master/img4.jpg) |
 
