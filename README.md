@@ -58,7 +58,8 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 - **Quatrième et cinquième prix :** une console de jeu d’une valeur indicative de 59,99 € *(Laquelle ?)*
 - **Du sixième au huitième prix :** une console de jeu d’une valeur indicative de 54,99 € *(Laquelle ?)*
 
-## FAQ
+![Foire aux questions](./titre4.png)
+<a name="faq"></a>
 
 ### Jusqu'à quelle date puis-je participer ?
 
