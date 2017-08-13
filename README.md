@@ -16,7 +16,7 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 - [FAQ](./README.md#faq)
 
 ## Jouer au jeu
-![Jouer au jeu](./titre.png)
+![Jouer au jeu](./titre1.png)
 
 À la sortie d’un festival, le groupe de glam rock Slapp Machine décide de partir en road trip pour composer leur nouvel album. Mais les membres du groupe rival, les Zackhøuz, leur ont volé leurs instruments. Les Slapp Machine vont alors s’embarquer dans une course poursuite endiablée à travers des niveaux déjantés, mêlant runner et niveaux de boss, afin de récupérer leurs précieux instrus.
 
