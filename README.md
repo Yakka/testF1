@@ -15,9 +15,9 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 ## Sommaire
 
 - [Le jeu](./README.md#le-jeu)
-- [La Game Jam](#game-jam)
-- [Les Prix](#prix)
-- [Règlement du concours](#règlement)
+- [La Game Jam](./README.md#la-game_jam)
+- [Les Prix](#les-prix)
+- [FAQ](#faq)
 
 ## Le jeu
 
@@ -27,9 +27,16 @@ A la sortie d’un festival, le groupe de glam rock Slapp Machine décide de par
 * Affrontez Max le manager véreux lors d’une épique bataille de sandwich triangle
 * Remplissez le réservoir de votre van le plus vite possible
 
-Les Slapp Machine ont besoin de vous !
+Les Slapp Machine ont besoin de vous ! Retrouvez Road Bands [sur Android](https://play.google.com/store/apps/details?id=fr.hf1.roadband) et [sur iOS](https://itunes.apple.com/app/id1256521725) tout de suite et gratuitement !
 
 ![Rattrapez le van des Zackhøuz !](./img1.jpg)
 ![Les Zackhøuz vous ont volé vos instruments !](./img2.jpg)
 ![Remplissez le réservoir de votre van !](./img3.jpg)
 ![Affrontez Max le manager véreux !](./img5.jpg)
+
+## La Game Jam
+
+## Les prix
+
+## FAQ
+
