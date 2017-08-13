@@ -1,6 +1,6 @@
 # Game Jam ROAD BANDS : créez les niveaux du jeu !
 
-** Rajouter des gifs sur la page **
+* Rajouter des gifs sur la page !*
 
 hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours plus loin dans l’univers de l’entertainment en proposant un jeu vidéo rétro (mobile et web) autour du road trip ! Dans Road Bands, vous devez aider un groupe de musique à retrouver leurs instruments et affronter leurs némésis. Mais attention, Road Bands n’est pas qu'un simple jeu vidéo, c’est un vrai projet collaboratif. Nous avons créé les 2 premiers niveaux, à vous de créer la suite !
 
@@ -10,13 +10,13 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 
 ## Sommaire
 
-- [Jouer au jeu](./README.md#jouer-au-jeu)
+- [Jouer au jeu](#jouer-au-jeu)
 - [Participer à la Game Jam](./README.md#participer-à-la-game-jam)
 - [Les Prix](./README.md#les-prix)
 - [FAQ](./README.md#faq)
 
-## Jouer au jeu
 ![Jouer au jeu](./titre1.png)
+<a name="jouer-au-jeu"></a>
 
 À la sortie d’un festival, le groupe de glam rock Slapp Machine décide de partir en road trip pour composer leur nouvel album. Mais les membres du groupe rival, les Zackhøuz, leur ont volé leurs instruments. Les Slapp Machine vont alors s’embarquer dans une course poursuite endiablée à travers des niveaux déjantés, mêlant runner et niveaux de boss, afin de récupérer leurs précieux instrus.
 
@@ -30,8 +30,6 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 ![Affrontez Max le manager véreux !](./img5.jpg)
 
 Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Road Bands [sur Android](https://play.google.com/store/apps/details?id=fr.hf1.roadband) et [sur iOS](https://itunes.apple.com/app/id1256521725) tout de suite et gratuitement !
-
-
 
 ## Participer à la Game Jam
 
