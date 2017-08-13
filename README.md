@@ -28,3 +28,5 @@ A la sortie d’un festival, le groupe de glam rock Slapp Machine décide de par
 * Remplissez le réservoir de votre van le plus vite possible
 
 Les Slapp Machine ont besoin de vous !
+
+![Rattrapez le van des Zackhøuz](./img1.jpg)
