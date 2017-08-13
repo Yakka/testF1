@@ -22,13 +22,15 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 <a name="jeu"></a>
 ## Le jeu
 
-A la sortie d’un festival, le groupe de glam rock Slapp machine décide de partir en road trip pour composer leur nouvel album. Mais les membres du groupe rival les Zackhøuz, leur ont volé leurs instruments. Les Slapp machine vont alors s’embarquer dans une course poursuite endiablée à travers des niveaux déjantés, mêlant runner et niveaux de boss, afin de récupérer leurs précieux instrus.
+A la sortie d’un festival, le groupe de glam rock Slapp Machine décide de partir en road trip pour composer leur nouvel album. Mais les membres du groupe rival, les Zackhøuz, leur ont volé leurs instruments. Les Slapp Machine vont alors s’embarquer dans une course poursuite endiablée à travers des niveaux déjantés, mêlant runner et niveaux de boss, afin de récupérer leurs précieux instrus.
 
 * Evitez les véhicules sur la route et rattrapez le van des Zackhøuz
 * Affrontez Max le manager véreux lors d’une épique bataille de sandwich triangle
 * Remplissez le réservoir de votre van le plus vite possible
 
 Les Slapp Machine ont besoin de vous !
+
+![Rattrapez le van des Zackhøuz](https://raw.githubusercontent.com/Yakka/testF1/master/img1.jpg)
 
 [Découvrez la vidéo de présentation du jeu !](http://www.youtube.com/watch?feature=player_embedded&v=35mA3UNQ-yk])
 
