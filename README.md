@@ -24,7 +24,7 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 * Affrontez Max le manager véreux lors d’une épique bataille de sandwichs triangle
 * Remplissez le réservoir de votre van le plus vite possible
 
-<table>
+<table border="0">
 <tr>
  <th><img src="./img1.jpg" alt="Rattrapez le van des Zackhøuz !"/></th>
  <th><img src="./img2.jpg" alt="Les Zackhøuz vous ont volé vos instruments !"/></th>
