@@ -29,5 +29,6 @@ A la sortie d’un festival, le groupe de glam rock Slapp Machine décide de par
 
 Les Slapp Machine ont besoin de vous !
 
-![Rattrapez le van des Zackhøuz](./img1.jpg)
+![Rattrapez le van des Zackhøuz](./img3.jpg)
+![Rattrapez le van des Zackhøuz](./img4.jpg)
 ![Rattrapez le van des Zackhøuz](./img2.jpg)
