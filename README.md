@@ -15,7 +15,7 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 ## Sommaire
 
 - [Jouer au jeu](./README.md#jouer-au-jeu)
-- [Participer à la Game Jam](./README.md#participer-à-la-la-game-jam)
+- [Participer à la Game Jam](./README.md#participer-à-la-game-jam)
 - [Les Prix](./README.md#les-prix)
 - [FAQ](./README.md#faq)
 
