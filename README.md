@@ -24,10 +24,15 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 * Affrontez Max le manager véreux lors d’une épique bataille de sandwichs triangle
 * Remplissez le réservoir de votre van le plus vite possible
 
-![Rattrapez le van des Zackhøuz !](./img1.jpg)
-![Les Zackhøuz vous ont volé vos instruments !](./img2.jpg)
-![Remplissez le réservoir de votre van !](./img3.jpg)
-![Affrontez Max le manager véreux !](./img5.jpg)
+<table>
+<tr>
+ <th><img src="./img1.jpg" alt="Rattrapez le van des Zackhøuz !"/></th>
+ <th><img src="./img2.jpg" alt="Les Zackhøuz vous ont volé vos instruments !"/></th>
+</tr>
+<tr>
+ <th><img src="./img3.jpg" alt="Remplissez le réservoir de votre van !"/></th>
+ <th><img src="./img4.jpg" alt="Affrontez Max le manager véreux !"/></th>
+</table>
 
 Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Road Bands [sur Android](https://play.google.com/store/apps/details?id=fr.hf1.roadband) et [sur iOS](https://itunes.apple.com/app/id1256521725) tout de suite et gratuitement !
 
