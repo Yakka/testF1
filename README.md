@@ -14,12 +14,12 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 
 ## Sommaire
 
-- [Le jeu](./README.md#le-jeu)
-- [La Game Jam](./README.md#la-game_jam)
-- [Les Prix](#les-prix)
-- [FAQ](#faq)
+- [Jouer au jeu](./README.md#jouer-au-jeu)
+- [Participer à la Game Jam](./README.md#participer-à-la-la-game-jam)
+- [Les Prix](./README.md#les-prix)
+- [FAQ](./README.md#faq)
 
-## Le jeu
+## Jouer au jeu
 
 A la sortie d’un festival, le groupe de glam rock Slapp Machine décide de partir en road trip pour composer leur nouvel album. Mais les membres du groupe rival, les Zackhøuz, leur ont volé leurs instruments. Les Slapp Machine vont alors s’embarquer dans une course poursuite endiablée à travers des niveaux déjantés, mêlant runner et niveaux de boss, afin de récupérer leurs précieux instrus.
 
@@ -34,7 +34,7 @@ Les Slapp Machine ont besoin de vous ! Retrouvez Road Bands [sur Android](https:
 ![Remplissez le réservoir de votre van !](./img3.jpg)
 ![Affrontez Max le manager véreux !](./img5.jpg)
 
-## La Game Jam
+## Participer à la  Game Jam
 
 ## Les prix
 
