@@ -1,4 +1,4 @@
-# ROADBANDS, un jeu participatif par les hôtels F1 !
+# ROADBANDS, un jeu collaboratif par les hotelF1 !
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/29977168/28116277-c23a7cce-6708-11e7-927c-5a6bd911da85.png"
@@ -10,13 +10,21 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 
 ## Sommaire
 
-- [Jouer à Road Bands](#jeu)
-- [Comment participer à la Game Jam](#participer)
+- [Le jeu](#jeu)
+- [La Game Jam](#game-jam)
 - [Les Prix](#prix)
 - [Règlement du concours](#règlement)
 
 <a name="jeu"></a>
 ## Le jeu
+
+A la sortie d’un festival, le groupe de glam rock Slapp machine décide de partir en road trip pour composer leur nouvel album. Mais les membres du groupe rival les Zackhøuz, leur ont volé leurs instruments. Les Slapp machine vont alors s’embarquer dans une course poursuite endiablée à travers des niveaux déjantés, mêlant runner et niveaux de boss, afin de récupérer leurs précieux instrus.
+
+* Evitez les véhicules sur la route et rattrapez le van des Zackhøuz
+* Affrontez Max le manager véreux lors d’une épique bataille de sandwich triangle
+* Remplissez le réservoir de votre van le plus vite possible
+
+Les Slapp Machine ont besoin de vous !
 
 <p align="center">
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=35mA3UNQ-yk" target="_blank"><img src="https://raw.githubusercontent.com/Yakka/testF1/master/youtube.jpg" alt="Video Roadbands"/></a>
