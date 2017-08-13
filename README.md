@@ -32,5 +32,9 @@ Les Slapp Machine ont besoin de vous !
 
 ![Rattrapez le van des Zackhøuz](https://raw.githubusercontent.com/Yakka/testF1/master/img1.jpg)
 
-[Découvrez la vidéo de présentation du jeu !](http://www.youtube.com/watch?feature=player_embedded&v=35mA3UNQ-yk])
+| Titre 1       |     Titre 2     |   Titre 3      |
+| ------------- | -------------   | ---------      |
+| Colonne       |     Colonne     |      Colonne   |
+| Alignée à     |      Alignée au |     Alignée à  |
+| Gauche        |      Centre     |      Droite    |
 
