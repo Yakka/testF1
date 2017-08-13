@@ -36,7 +36,11 @@ Les Slapp Machine ont besoin de vous ! Retrouvez Road Bands [sur Android](https:
 
 ## Participer à la Game Jam
 
-*Informations sur l'évènement : date, où soumettre son jeu, lien vers la page d'explication du projet Unity, etc...*
+*Informations sur l'évènement :* 
+- [ ] *Date de rendu*
+- [ ] *Où et comment soumettre son jeu*
+- [ ] *Lien vers la page d'explications du projet Unity*
+- [ ] *Lien vers le règlement du concours*
 
 ## Les prix
 
