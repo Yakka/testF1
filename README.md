@@ -5,7 +5,7 @@
 hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours plus loin dans l’univers de l’entertainment en proposant un jeu vidéo rétro (mobile et web) autour du road trip ! Dans Road Bands, vous devez aider un groupe de musique à retrouver leurs instruments et affronter leurs némésis. Mais attention, Road Bands n’est pas qu'un simple jeu vidéo, c’est un vrai projet collaboratif. Nous avons créé les 2 premiers niveaux, à vous de créer la suite !
 
 <p align="center">
-    <a target="_blank" href="http://www.youtube.com/watch?feature=player_embedded&v=35mA3UNQ-yk"><img src="./youtube.jpg" alt="Video Road Bands"/></a>
+    <a target="_blank" href="http://www.youtube.com/watch?feature=player_embedded&v=35mA3UNQ-yk"><img src="images/youtube.jpg" alt="Video Road Bands"/></a>
 </p>
 
 ## Sommaire
@@ -13,9 +13,9 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 - [Jouer au jeu](#jouer-au-jeu)
 - [Faire la Game Jam](#faire-la-game-jam)
 - [Les prix à gagner](#les-prix)
-- [FAQ](./README.md#faq)
+- [FAQ](#faq)
 
-![Jouer au jeu](./titre1.png)
+![Jouer au jeu](images/titre1.png)
 <a name="jouer-au-jeu"></a>
 
 À la sortie d’un festival, le groupe de glam rock Slapp Machine décide de partir en road trip pour composer leur nouvel album. Mais les membres du groupe rival, les Zackhøuz, leur ont volé leurs instruments. Les Slapp Machine vont alors s’embarquer dans une course poursuite endiablée à travers des niveaux déjantés, mêlant runner et niveaux de boss, afin de récupérer leurs précieux instrus.
@@ -24,16 +24,16 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 * Affrontez Max le manager véreux lors d’une épique bataille de sandwichs triangle
 * Remplissez le réservoir de votre van le plus vite possible
 
-![Rattrapez le van des Zackhøuz !](./img1.jpg)
-![Les Zackhøuz vous ont volé vos instruments !](./img2.jpg)
-![Remplissez le réservoir de votre van !](./img3.jpg)
-![Affrontez Max le manager véreux !](./img5.jpg)
+![Rattrapez le van des Zackhøuz !](images/img1.jpg)
+![Les Zackhøuz vous ont volé vos instruments !](images/img2.jpg)
+![Remplissez le réservoir de votre van !](images/img3.jpg)
+![Affrontez Max le manager véreux !](images/img5.jpg)
 
 Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Road Bands [sur Android](https://play.google.com/store/apps/details?id=fr.hf1.roadband) et [sur iOS](https://itunes.apple.com/app/id1256521725) tout de suite et gratuitement !
 
 *Boutons Android et iOS*
 
-![Faire la Game Jam](./titre2.png)
+![Faire la Game Jam](images/titre2.png)
 <a name="faire-la-game-jam"></a>
 
 *Informations sur l'évènement :* 
@@ -42,7 +42,7 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 - [ ] *Lien vers la page d'explications du projet Unity*
 - [ ] *Lien vers le règlement du concours*
 
-![Les prix à gagner](./titre3.png)
+![Les prix à gagner](images/titre3.png)
 <a name="les-prix"></a>
 
 À la fin de la Game Jam, tous vos niveaux seront testés par un jury qui sélectionnera alors 8 niveaux. Ces niveaux seront ensuite intégrés par nos équipes dans le jeu final, faisant de Road Bands un véritable jeu collaboratif ! Le jury devra décerner des prix à chacun des niveaux sélectionnés suivant son ordre de préférence.
@@ -52,7 +52,7 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 - **Quatrième et cinquième prix :** une console de jeu d’une valeur indicative de 59,99 € *(Laquelle ?)*
 - **Du sixième au huitième prix :** une console de jeu d’une valeur indicative de 54,99 € *(Laquelle ?)*
 
-![Foire aux questions](./titre4.png)
+![Foire aux questions](images/titre4.png)
 <a name="faq"></a>
 
 ### Jusqu'à quelle date puis-je participer ?
