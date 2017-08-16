@@ -35,7 +35,15 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 
 Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Road Bands [sur Android](https://play.google.com/store/apps/details?id=fr.hf1.roadband) et [sur iOS](https://itunes.apple.com/app/id1256521725) tout de suite et gratuitement !
 
-*Boutons Android et iOS*
+<p>
+    <a target="_blank" href="https://play.google.com/store/apps/details?id=fr.hf1.roadband"><img src="images/android.png" alt="Android"/></a>
+</p>
+
+<p>
+    <a target="_blank" href="https://itunes.apple.com/app/id1256521725"><img src="images/iphone.pnh" alt="iPhone"/></a>
+</p>
+
+![Rattrapez le van des Zackhøuz !](images/img1.jpg)
 
 ![Faire la Game Jam](images/titre2.png)
 <a name="faire-la-game-jam"></a>
