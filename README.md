@@ -15,6 +15,10 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 - [Les prix à gagner](#les-prix)
 - [FAQ](#faq)
 
+<p align="center">
+    <img src="images/intro.gif">
+</p>
+
 ![Jouer au jeu](images/titre1.png)
 <a name="jouer-au-jeu"></a>
 
