@@ -50,7 +50,7 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
     <img src="images/intro.gif">
 </p>
 
-*Informations sur l'évènement :* 
+*Informations sur l'événement :* 
 - [ ] *Date de rendu*
 - [ ] *Où et comment soumettre son jeu*
 - [ ] *Lien vers la page d'explications du projet Unity*
@@ -63,7 +63,7 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
     <img src="images/prix.gif">
 </p>
 
-À la fin de la Game Jam, tous vos niveaux seront testés par un jury qui sélectionnera alors 8 niveaux. Ces niveaux seront ensuite intégrés par nos équipes dans le jeu final, faisant de Road Bands un véritable jeu collaboratif ! Le jury devra décerner des prix à chacun des niveaux sélectionnés suivant son ordre de préférence.
+À la fin de la Game Jam, tous vos niveaux seront testés par un jury qui en sélectionnera 8. Ces niveaux seront ensuite intégrés par nos équipes dans le jeu final, faisant de Road Bands un véritable jeu collaboratif ! Le jury devra décerner un prix à chacun des niveaux sélectionnés suivant son ordre de préférence.
 
 - **Premier prix :** une mini borne d’arcade d’une valeur indicative de 1500 € TTC
 - **Deuxième et troisième prix :** une console de jeu d’une valeur indicative de 329,99€
@@ -86,6 +86,9 @@ Il n'y a pas de taille limite aux équipes, tous vos fans peuvent vous accompagn
 *À remplir.*
 
 ### Puis-je créer plusieurs niveaux ?
+*À remplir.*
+
+
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/29977168/28116277-c23a7cce-6708-11e7-927c-5a6bd911da85.png"
