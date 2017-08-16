@@ -59,10 +59,10 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 
 À la fin de la Game Jam, tous vos niveaux seront testés par un jury qui sélectionnera alors 8 niveaux. Ces niveaux seront ensuite intégrés par nos équipes dans le jeu final, faisant de Road Bands un véritable jeu collaboratif ! Le jury devra décerner des prix à chacun des niveaux sélectionnés suivant son ordre de préférence.
 
-- **Premier prix :** une mini borne d’arcade d’une valeur indicative de 1500 € TTC *(Laquelle ?)*
-- **Deuxième et troisième prix :** une console de jeu d’une valeur indicative de 329,99€ *(Laquelle ?)*
-- **Quatrième et cinquième prix :** une console de jeu d’une valeur indicative de 59,99 € *(Laquelle ?)*
-- **Du sixième au huitième prix :** une console de jeu d’une valeur indicative de 54,99 € *(Laquelle ?)*
+- **Premier prix :** une mini borne d’arcade d’une valeur indicative de 1500 € TTC
+- **Deuxième et troisième prix :** une console de jeu d’une valeur indicative de 329,99€
+- **Quatrième et cinquième prix :** une console de jeu d’une valeur indicative de 59,99 €
+- **Du sixième au huitième prix :** une console de jeu d’une valeur indicative de 54,99 €
 
 ![Foire aux questions](images/titre4.png)
 <a name="faq"></a>
@@ -70,8 +70,10 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 ### Jusqu'à quelle date puis-je participer ?
 
 ### Puis-je participer seul(e) ?
+Absolument. Que l'esprit du rock vous accompagne !
 
 ### Jusqu'à combien de personnes peut compter mon équipe ?
+Il n'y a pas de taille limite aux équipes, tous vos fans peuvent vous accompagner.
 
 ### À qui dois-je envoyer mon niveau une fois celui-ci fini ?
 
