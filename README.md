@@ -70,7 +70,7 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 ### Jusqu'à quelle date puis-je participer ?
 
 ### Puis-je participer seul(e) ?
-Absolument. Que l'esprit du rock vous accompagne !
+Absolument. 
 
 ### Jusqu'à combien de personnes peut compter mon équipe ?
 Il n'y a pas de taille limite aux équipes, tous vos fans peuvent vous accompagner.
