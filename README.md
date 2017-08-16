@@ -40,7 +40,7 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 </p>
 
 <p>
-    <a target="_blank" href="https://itunes.apple.com/app/id1256521725"><img src="images/iphone.pnh" alt="iPhone"/></a>
+    <a target="_blank" href="https://itunes.apple.com/app/id1256521725"><img src="images/iphone.png" alt="iPhone"/></a>
 </p>
 
 ![Rattrapez le van des Zackhøuz !](images/img1.jpg)
