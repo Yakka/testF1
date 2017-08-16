@@ -68,6 +68,7 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 <a name="faq"></a>
 
 ### Jusqu'à quelle date puis-je participer ?
+*À remplir.*
 
 ### Puis-je participer seul(e) ?
 Absolument. 
@@ -76,6 +77,7 @@ Absolument.
 Il n'y a pas de taille limite aux équipes, tous vos fans peuvent vous accompagner.
 
 ### À qui dois-je envoyer mon niveau une fois celui-ci fini ?
+*À remplir.*
 
 ### Puis-je créer plusieurs niveaux ?
 
