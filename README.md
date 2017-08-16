@@ -13,10 +13,6 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 - [Les prix à gagner](#les-prix)
 - [FAQ](#faq)
 
-<p align="center">
-    <img src="images/intro.gif">
-</p>
-
 ![Jouer au jeu](images/titre1.png)
 <a name="jouer-au-jeu"></a>
 
@@ -43,6 +39,10 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 
 ![Faire la Game Jam](images/titre2.png)
 <a name="faire-la-game-jam"></a>
+
+<p align="center">
+    <img src="images/intro.gif">
+</p>
 
 *Informations sur l'évènement :* 
 - [ ] *Date de rendu*
