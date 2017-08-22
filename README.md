@@ -50,14 +50,7 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
     <img src="images/intro.gif">
 </p>
 
-*Informations sur l'événement* : 
-- [x] *Contraintes de format* 
-- [x] *Date de rendu*
-- [x] *Où et comment soumettre son jeu*
-- [x] *Lien vers la page d'explications du projet Unity*
-- [x] *Lien vers le règlement du concours*
-
-Roadbands est un jeu collaboratif. Cela signifie que VOUS allez pouvoir créer les niveaux de vos rêves, et, s'ils sont sélectionnés, les avoir directement jouable dans la version finale du jeu ! 
+Roadbands est un jeu collaboratif. Cela signifie que VOUS allez pouvoir créer les niveaux de vos rêves, et, s'ils sont sélectionnés, être récompensé(e) par de nombreux prix ! De plus, vos niveaux feront parti de la version finale du jeu disponible sur internet et smartphone.
 
 Pour commencer, nous vous conseillons fortement de lire [la page d'aide à la prise en main du projet Unity](https://github.com/ROADBANDS/GAMEJAM/blob/master/charte-de-co-creation.md) où vous trouverez toutes les réponses à vos questions techniques.
 
