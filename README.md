@@ -33,7 +33,7 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
     <img src="images/gameplay.gif">
 </p>
 
-Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Road Bands [sur Android](https://play.google.com/store/apps/details?id=fr.hf1.roadband) et [sur iOS](https://itunes.apple.com/app/id1256521725) tout de suite et gratuitement !
+Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Road Bands [sur Android](https://play.google.com/store/apps/details?id=fr.hf1.roadband) et [sur iOS](https://itunes.apple.com/app/id1256521725), ou sur (roadbands.com)[http://www.roadbands.com] tout de suite et gratuitement !
 
 <p>
     <a target="_blank" href="https://play.google.com/store/apps/details?id=fr.hf1.roadband"><img src="images/android.png" alt="Android"/></a>
@@ -50,11 +50,18 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
     <img src="images/intro.gif">
 </p>
 
-*Informations sur l'événement* :  
+*Informations sur l'événement* : 
+- [ ] *Contraintes de format* 
 - [ ] *Date de rendu*
 - [ ] *Où et comment soumettre son jeu*
 - [ ] *Lien vers la page d'explications du projet Unity*
 - [ ] *Lien vers le règlement du concours*
+
+Roadbands est un jeu collaboratif. Cela signifie que VOUS allez pouvoir créer les niveaux de vos rêves, et, s'ils sont sélectionnés, les avoir directement jouable dans la version finale du jeu ! 
+
+Pour commencer, nous vous conseillons fortement de lire [la page d'aide à la prise en main du projet Unity](https://github.com/ROADBANDS/GAMEJAM/blob/master/charte-de-co-creation.md) où vous trouverez toutes les réponses à vos questions techniques.
+
+Le niveau que vous allez créer devra être soumis avant le **dimanche 1er octobre 23h59** sur cette page : http://www.roadbands.com/gamejam
 
 ![Les prix à gagner](images/titre3.png)
 <a name="les-prix"></a>
@@ -72,6 +79,8 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 
 ![Foire aux questions](images/titre4.png)
 <a name="faq"></a>
+### Comment créer mon niveau de Roadbands ?
+Toutes les réponses à vos questions [sont ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/charte-de-co-creation.md) ;-)
 
 ### Jusqu'à quelle date puis-je participer ?
 La date limite de soumission de votre niveau est le dimanche 1er octobre 2017 à 23h59.
