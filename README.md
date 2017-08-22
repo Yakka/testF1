@@ -51,17 +51,26 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 </p>
 
 *Informations sur l'événement* : 
-- [ ] *Contraintes de format* 
-- [ ] *Date de rendu*
-- [ ] *Où et comment soumettre son jeu*
-- [ ] *Lien vers la page d'explications du projet Unity*
-- [ ] *Lien vers le règlement du concours*
+- [x] *Contraintes de format* 
+- [x] *Date de rendu*
+- [x] *Où et comment soumettre son jeu*
+- [x] *Lien vers la page d'explications du projet Unity*
+- [x] *Lien vers le règlement du concours*
 
 Roadbands est un jeu collaboratif. Cela signifie que VOUS allez pouvoir créer les niveaux de vos rêves, et, s'ils sont sélectionnés, les avoir directement jouable dans la version finale du jeu ! 
 
 Pour commencer, nous vous conseillons fortement de lire [la page d'aide à la prise en main du projet Unity](https://github.com/ROADBANDS/GAMEJAM/blob/master/charte-de-co-creation.md) où vous trouverez toutes les réponses à vos questions techniques.
 
 Le niveau que vous allez créer devra être soumis avant le **dimanche 1er octobre 23h59** sur cette page : http://www.roadbands.com/gamejam
+
+Afin de rester cohérent avec le reste du jeu, votre niveau devra :
+- être jouable en webGL et sur smartphone
+- comporter une phase d'échauffement et une phase de boss
+- renseigner un score à la fin
+
+Un petit tutoriel en introduction est aussi plus que bienvenue ! ;-)
+
+Pour plus d'informations sur les détails juridiques du concours, vous pouvez consulter [le règlement complet ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/reglement-du-concours.md).
 
 ![Les prix à gagner](images/titre3.png)
 <a name="les-prix"></a>
