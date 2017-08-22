@@ -74,7 +74,7 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 <a name="faq"></a>
 
 ### Jusqu'à quelle date puis-je participer ?
-*À remplir.*
+La date limite de soumission de votre niveau est le dimanche 1er octobre 2017 à 23h59.
 
 ### Puis-je participer seul(e) ?
 Absolument. 
@@ -86,9 +86,7 @@ Il n'y a pas de taille limite aux équipes, tous vos fans peuvent vous accompagn
 *À remplir.*
 
 ### Puis-je créer plusieurs niveaux ?
-*À remplir.*
-
-
+Oui, mais nous vous conseillons de privilégier la qualité à la quantité :-)
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/29977168/28116277-c23a7cce-6708-11e7-927c-5a6bd911da85.png"
