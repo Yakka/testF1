@@ -94,7 +94,7 @@ Absolument.
 Il n'y a pas de taille limite aux équipes, tous vos fans peuvent vous accompagner.
 
 ### À qui dois-je envoyer mon niveau une fois celui-ci fini ?
-*À remplir.*
+Une fois terminé, faites une archive .zip de votre projet Unity et postez-la ici : http://www.roadbands.com/gamejam
 
 ### Puis-je créer plusieurs niveaux ?
 Oui, mais nous vous conseillons de privilégier la qualité à la quantité :-)
